@@ -1,0 +1,8 @@
+To GET and ADD
+http://127.0.0.1:8000/api/v1/users/
+
+To GetById and PUT and DELETE
+http://127.0.0.1:8000/api/v1/users/id/
+
+To access to Django administration
+http://127.0.0.1:8000/admin
